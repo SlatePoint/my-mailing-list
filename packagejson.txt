@@ -1,0 +1,7 @@
+packagejson
+{
+  "name": "signup-form",
+  "scripts": {
+    "start": "npx serve . --listen $PORT"
+  }
+}
